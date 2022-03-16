@@ -1,0 +1,60 @@
+Test case 1
+quick sort: 97 ms 
+c++ sort: 150 ms 
+heap sort: 367 ms 
+merge sort: 223 ms 
+
+Test case 2
+quick sort: 97 ms 
+c++ sort: 150 ms 
+heap sort: 329 ms 
+merge sort: 220 ms 
+
+Test case 3
+quick sort: 99 ms 
+c++ sort: 151 ms 
+heap sort: 324 ms 
+merge sort: 218 ms 
+
+Test case 4
+quick sort: 96 ms 
+c++ sort: 151 ms 
+heap sort: 328 ms 
+merge sort: 220 ms 
+
+Test case 5
+quick sort: 99 ms 
+c++ sort: 164 ms 
+heap sort: 358 ms 
+merge sort: 233 ms 
+
+Test case 6
+quick sort: 96 ms 
+c++ sort: 152 ms 
+heap sort: 334 ms 
+merge sort: 224 ms 
+
+Test case 7
+quick sort: 99 ms 
+c++ sort: 153 ms 
+heap sort: 336 ms 
+merge sort: 221 ms 
+
+Test case 8
+quick sort: 98 ms 
+c++ sort: 153 ms 
+heap sort: 329 ms 
+merge sort: 228 ms 
+
+Test case 9
+quick sort: 28 ms 
+c++ sort: 56 ms 
+heap sort: 227 ms 
+merge sort: 158 ms 
+
+Test case 10
+quick sort: 31 ms 
+c++ sort: 44 ms 
+heap sort: 216 ms 
+merge sort: 161 ms 
+
